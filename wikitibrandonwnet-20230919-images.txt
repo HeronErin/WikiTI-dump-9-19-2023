@@ -1,0 +1,27 @@
+01.key	https://wikiti.brandonw.net/images/3/37/01.key	Dr. D'nar	270	d38199281efeb09bcc8a8a914a996137304ec6e8
+0101.key	https://wikiti.brandonw.net/images/1/1c/0101.key	Dr. D'nar	268	d8608bacc36d6fb49eec7942b619b90567683870
+0102.key	https://wikiti.brandonw.net/images/3/30/0102.key	Dr. D'nar	270	8b9dcc9e3533f7b1689db852fd88149d99539050
+0103.key	https://wikiti.brandonw.net/images/7/71/0103.key	Dr. D'nar	270	e1ef32aed06645f06ccc9b138204031a05184e50
+0104.key	https://wikiti.brandonw.net/images/5/5c/0104.key	Dr. D'nar	270	976a97c3983eb74fb90963f159a15541b3b317dc
+0108.key	https://wikiti.brandonw.net/images/6/64/0108.key	Dr. D'nar	270	00cc566e04ec563cda9945345a04918870e77b92
+0109.key	https://wikiti.brandonw.net/images/6/6b/0109.key	Dr. D'nar	270	d7a73af40350bfb92478557846615b3ff463a439
+010A.key	https://wikiti.brandonw.net/images/a/a2/010A.key	Dr. D'nar	270	3fad0fe2fd73e2ba79278d784a0b6cf75b6f30c4
+010F.key	https://wikiti.brandonw.net/images/3/39/010F.key	Dr. D'nar	268	252c88f466d9ff02221fa4f4a941ddf6c00ab4a4
+02.key	https://wikiti.brandonw.net/images/b/b5/02.key	Dr. D'nar	270	20c770b90c7f3bf3d320947a47b6f91d529a505f
+03.key	https://wikiti.brandonw.net/images/d/d6/03.key	Dr. D'nar	270	16c22cb62df43d15488ba030f6a93127f034a9f1
+04.key	https://wikiti.brandonw.net/images/f/f8/04.key	Dr. D'nar	270	68423b35051831e337574a655239d2de4f2b6abb
+08.key	https://wikiti.brandonw.net/images/c/cf/08.key	Dr. D'nar	270	7be2c3b717db6c5704a4ef54f0946df6cfa5b6a7
+09.key	https://wikiti.brandonw.net/images/f/ff/09.key	Dr. D'nar	270	a3c926bb0782e1557631fe98f23551348f83f327
+0A.key	https://wikiti.brandonw.net/images/5/5d/0A.key	Dr. D'nar	270	3e1f5f97fa66485953540a8cf35b9348bfc54c5c
+AM29F400BT.pdf	https://wikiti.brandonw.net/images/a/a0/AM29F400BT.pdf	Tari	944100	df72d1ca09543dc1d61c22615b2787d3968b3a7b
+Datestamp.key	https://wikiti.brandonw.net/images/0/0c/Datestamp.key	Dr. D'nar	270	3cf03b8ca0d6c0d3a282b78d821b5ec024513a46
+TA1 ASIC overclock.jpg	https://wikiti.brandonw.net/images/6/65/TA1_ASIC_overclock.jpg	Dr. D'nar	273166	7934a4184a90ff45ea59fa019359e389e377c312
+TA3 ASIC overclock.jpg	https://wikiti.brandonw.net/images/4/46/TA3_ASIC_overclock.jpg	Dr. D'nar	451535	b446b948f897138afcbbbd8ff00e82579ce25b02
+TI-84 Plus C SE 8-bit palette BGR.png	https://wikiti.brandonw.net/images/8/85/TI-84_Plus_C_SE_8-bit_palette_BGR.png	Dr. D'nar	2318	75de781c34663b549e9b9d3e0f9ce5623403617d
+TI-84 Plus C SE 8-bit palette RGB.png	https://wikiti.brandonw.net/images/7/7a/TI-84_Plus_C_SE_8-bit_palette_RGB.png	Dr. D'nar	20263	43e5273a3de59a5f16a4113c7749e11060243b07
+TI-84 Plus C SE PCB (main circuits).jpeg	https://wikiti.brandonw.net/images/e/eb/TI-84_Plus_C_SE_PCB_%28main_circuits%29.jpeg	Dr. D'nar	1135856	b7d21c59dce405287e8e4d4b18160e036a9e3977
+TI-84 Plus C SE PCB lower half.jpg	https://wikiti.brandonw.net/images/2/21/TI-84_Plus_C_SE_PCB_lower_half.jpg	Dr. D'nar	862645	8a3247122dffe2336a5bccdfb715e68c7ba4361f
+TI-84 Plus SE PCB (main circuits).jpeg	https://wikiti.brandonw.net/images/c/c6/TI-84_Plus_SE_PCB_%28main_circuits%29.jpeg	Dr. D'nar	1131851	245b734c6ad35c3588d281aeae8d28a7b16046b8
+TI-Navigator flash chip removed.jpeg	https://wikiti.brandonw.net/images/0/07/TI-Navigator_flash_chip_removed.jpeg	Brandonw	1280351	0c40020fc3a911dc0e2ed47251ba1cb0c59c3ef3
+TI84PlusCEMeasurements.png	https://wikiti.brandonw.net/images/9/96/TI84PlusCEMeasurements.png	MicahSuess	462478	213b2424b406cc563321f7006d38aaa4e410939d
+--END--
